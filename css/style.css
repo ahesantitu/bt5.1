@@ -1,0 +1,23 @@
+.banner-content,.team,.tem-person,.service,.sr-content{
+	min-height: 300px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.banner-content h1,.team h2,.service h1,.contact h1{
+	padding: 20px 0;
+	color:black;
+	text-align: center;
+}
+.contact h1{
+	color:black;
+	text-align: center;
+}
+.location,.footer{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.footer p{
+	color: white;
+}
